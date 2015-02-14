@@ -118,9 +118,6 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DomainSuffix" xml:space="preserve">
-    <value>co.uk;com;us;uk;ca;biz;info;name</value>
-  </data>
-  <data name="FreeMail" xml:space="preserve">
-    <value>gmail.com;yahoo.com;hotmail.com</value>
+    <value>co.uk;com;us;uk;ca;biz;info;name;se</value>
   </data>
 </root>

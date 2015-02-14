@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=WebConfig_002ERedundantLocationTag/@EntryIndexedValue">DO_NOT_SHOW</s:String>
+	<s:String x:Key="/Default/CodeStyle/Naming/CSharpNaming/Abbreviations/=FRM/@EntryIndexedValue">FRM</s:String>
+	<s:Double x:Key="/Default/Environment/InjectedLayers/InjectedLayerCustomization/=File7CB2FE83D11B4E4C89D458233CD1CCFF/RelativePriority/@EntryValue">1</s:Double>
+	<s:Boolean x:Key="/Default/Environment/InjectedLayers/InjectedLayerCustomization/=File7CB2FE83D11B4E4C89D458233CD1CCFF/@KeyIndexDefined">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/InjectedLayers/FileInjectedLayer/=7CB2FE83D11B4E4C89D458233CD1CCFF/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/InjectedLayers/FileInjectedLayer/=7CB2FE83D11B4E4C89D458233CD1CCFF/RelativePath/@EntryValue">..\..\MIRA_SCRIPT\GlobalResharperSettings.DotSettings</s:String>
+	<s:String x:Key="/Default/Environment/InjectedLayers/FileInjectedLayer/=7CB2FE83D11B4E4C89D458233CD1CCFF/AbsolutePath/@EntryValue">C:\Projects\MIRA_GIT\MIRA_SCRIPT\GlobalResharperSettings.DotSettings</s:String></wpf:ResourceDictionary>
